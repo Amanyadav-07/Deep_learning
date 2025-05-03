@@ -1,4 +1,4 @@
-# Data Science Practice Notebooks 📓
+# Deep Learning Practice Notebooks 📓
 
 This repository contains Jupyter notebooks developed as part of my learning journey in the **"Data Science with Generative AI"** course by PW Skills. These notebooks demonstrate core machine learning concepts like model training, optimizers, and neural network implementation using TensorFlow and Keras.
 
